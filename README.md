@@ -6,7 +6,7 @@ This repository contains the step-by-step implementation, system configuration, 
 ---
 
 ## 1. Environment Specifications
-* **Host OS:** Windows 10
+* **Host OS:** Windows 11
 * **Hypervisor:** Oracle VM VirtualBox
 * **Guest OS:** Kali Linux (`kali`)
 * **Primary User:** `mwansa`
